@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(241, 233, 233);
+    font-family: sans-serif;
+    line-height: 1.5;
+
+}
+
+h3 {
+    padding-bottom: 0.5%;
+}
+
+li {
+    font-weight: bold;
+    color: black;
+}
+
+span {
+    font-weight: 400;
+     color: #4358b9;
+}

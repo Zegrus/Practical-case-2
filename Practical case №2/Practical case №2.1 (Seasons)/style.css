@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(247, 242, 242);
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: sans-serif;
+    padding-left: 46px;
+}
+
+ol {
+    list-style: url(icons/arrow_16.png);
+    padding-left: 5%;
+    line-height: 1.25;
+}
+
+#winter li { 
+            list-style-image: url(icons/winter_16.png);
+}
+
+#spring li { 
+            list-style-image: url(icons/spring_16.png);
+}
+
+#summer li { 
+            list-style-image: url(icons/summer_16.png);
+}
+
+#autumn li { 
+            list-style-image: url(icons/autumn_16.png);
+}

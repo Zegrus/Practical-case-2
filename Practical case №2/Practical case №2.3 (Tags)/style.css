@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(252, 252, 252);
+}
+
+dt {
+    font-family: sans-serif;
+    background-color: rgb(24, 87, 87);
+    color: white;
+    padding: 0.5%;
+    padding-left: 3%;
+}
+
+dd {
+    font-family: sans-serif;
+    background-color: rgb(63, 117, 117);
+    color: white;
+    padding: 1%;
+    margin-left: 0%;
+}
+
+.color {
+        color: pink;
+        background-color: rgb(63, 117, 117);
+}
+
+.font {
+        font-family: sans-serif;
+        font-size: 14px;
+}
